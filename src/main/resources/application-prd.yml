@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: danjuan
+    password: cj19971221
+    url: jdbc:mysql://103.68.193.45:3306/danjuan?characterEncoding=utf-8&useSSL=false&serverTimezone=GMT%2B8
+  main:
+    allow-circular-references: true
